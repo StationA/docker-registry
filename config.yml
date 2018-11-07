@@ -1,0 +1,3 @@
+version: 0.1
+http:
+  addr: :5000
